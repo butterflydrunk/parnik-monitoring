@@ -1,0 +1,6 @@
+{
+  "name": "Parnik - Gündelik Hasabat we Monitoring Paneli",
+  "description": "Ýyladyşhana (parnik) üçin gündelik suwaryş, laboratoriýa, drenaž, agronom hasabatlary we grafiki monitoring ulgamy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

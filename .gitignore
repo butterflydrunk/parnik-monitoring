@@ -1,0 +1,21 @@
+# Node & Dependencies
+node_modules/
+node_modules.tar.gz
+package-lock.json.backup
+
+# Production build artifacts
+dist/
+build/
+coverage/
+
+# Environment and Secrets
+.env*
+!.env.example
+*.local
+
+# System & OS
+.DS_Store
+._*
+*.log
+.idea/
+.vscode/
